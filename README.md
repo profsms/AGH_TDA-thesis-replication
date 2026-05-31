@@ -4,8 +4,6 @@ Replication repository for the master's thesis
 *"Topological Data Analysis for Time-Series Regime Detection and Forecasting"*
 by Stanisław M. S. Halkiewicz, AGH University of Science and Technology, 2026.
 
-The thesis PDF is included as `Halkiewicz_WMS_thesis.pdf`.
-
 ## Setup
 
 ```bash
