@@ -140,7 +140,7 @@ features at horizons h = 1 and h = 5.
 ```bibtex
 @mastersthesis{halkiewicz2026tda,
   author  = {Halkiewicz, Stanisław M. S.},
-  title   = {Topological Data Analysis for Time-Series Regime Detection and Forecasting},
+  title   = {Topological Data Analysis for Time-Series},
   school  = {AGH University of Science and Technology},
   year    = {2026},
 }
