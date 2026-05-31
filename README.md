@@ -56,14 +56,6 @@ IMS/
   Readme Document for IMS Bearing Data.pdf
 ```
 
-Then preprocess it (downsampled, ~160 MB total):
-```bash
-julia --project=. preprocess_nasa.jl
-```
-This writes `data/nasa_set1.jls`, `data/nasa_set2.jls`, `data/nasa_set3.jls`.
-
----
-
 ## Running the analysis
 
 Scripts are numbered in execution order. Each script saves checkpoints under
